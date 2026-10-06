@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# data - make sure data isn't added to repo when pushed to GitHub
+data/*
